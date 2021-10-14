@@ -4,6 +4,8 @@
 
 This is a link to [another page](change-requests.md).
 
+This is a link to a page in a different chapter, '[Publishing your content](../publishing/publishing-your-content.md)'.
+
 **Power BI Desktop** supports the use of **inline hierarchy labels**, which is the first of two features intended to enhance hierarchical drilling. The second feature, which is currently in development, is the ability to use nested hierarchy labels (stay tuned for that - our updates happen frequently).
 
 ### How inline hierarchy labels work
