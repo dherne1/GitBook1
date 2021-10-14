@@ -5,6 +5,7 @@
 ## The Basics
 
 * [Spaces](the-basics/spaces.md)
+* [Sample page](the-basics/sample-page.md)
 * [Collections](the-basics/collections.md)
 * [The GitBook editor](the-basics/the-gitbook-editor.md)
 * [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
