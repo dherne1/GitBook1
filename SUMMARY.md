@@ -13,7 +13,7 @@
 
 ## Publishing
 
-* [Publishing your content](publishing/publishing-your-content.md)
+* [Publishing your content!](publishing/publishing-your-content.md)
 
 ## Tips and tricks
 
