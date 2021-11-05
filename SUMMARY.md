@@ -13,7 +13,7 @@
 
 ## Publishing
 
-* [Publishing your - my name change](publishing/publishing-your-content-name-change.md)
+* [How to configure job fail and delay alert](publishing/publishing-your-content-name-change.md)
 
 ## Tips and tricks
 
